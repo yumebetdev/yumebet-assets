@@ -1,0 +1,61 @@
+{
+  "name": "Yume - Frost Light #454",
+  "description": "Yume: A collection of 5007 unique Sakura spirits. Featuring Ultra-Legendary sets, Mythical Seraphims, and Rare celestial traits.",
+  "image": "ipfs://bafybeie2yxf5uakmijvicjeszkbpo7vgvdofseomsfdxyjk5w2bw44vaga/454.png",
+  "edition": 454,
+  "date": 1777543317189,
+  "attributes": [
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Tier Index",
+      "value": 1
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 01 Background",
+      "value": "Christmas Background"
+    },
+    {
+      "trait_type": "Back Hair",
+      "value": "Christmas Back Hair"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 03 Base Body",
+      "value": "Christmas Base Body"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 04 Blush",
+      "value": "Christmas Blush"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 05 Dress",
+      "value": "Christmas Dress"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 06 Eyes",
+      "value": "Christmas Eyes"
+    },
+    {
+      "trait_type": "Front Hair",
+      "value": "Christmas Front Hair"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 08 Hand",
+      "value": "Christmas Hand"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 09 Mouth",
+      "value": "Christmas Mouth"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 10 Accessories",
+      "value": "Santa Hat"
+    },
+    {
+      "trait_type": "Ultra Legendary Christmas 11 Front BG",
+      "value": "Christmas Snow Flakes"
+    }
+  ]
+}

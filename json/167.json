@@ -1,0 +1,81 @@
+{
+  "name": "Yume - Azure Light #167",
+  "description": "Yume: A collection of 5007 unique Sakura spirits. Featuring Ultra-Legendary sets, Mythical Seraphims, and Rare celestial traits.",
+  "image": "ipfs://bafybeie2yxf5uakmijvicjeszkbpo7vgvdofseomsfdxyjk5w2bw44vaga/167.png",
+  "edition": 167,
+  "date": 1777546543074,
+  "attributes": [
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Tier Index",
+      "value": 4
+    },
+    {
+      "trait_type": "Background",
+      "value": "Golden Hour"
+    },
+    {
+      "trait_type": "Back Hair",
+      "value": "Medium Pink Hair"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tails",
+      "value": "None"
+    },
+    {
+      "trait_type": "Base Body",
+      "value": "Porcelain"
+    },
+    {
+      "trait_type": "Body Mod",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Ears"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Rosy Blush"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Black Halter Top Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Heart Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Demonic Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Front Hair",
+      "value": "Medium Pink Hair Wave"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face Feature",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask / Halo",
+      "value": "None"
+    }
+  ]
+}
