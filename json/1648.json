@@ -1,81 +1,81 @@
-{
-  "name": "Yume - Frost Star #1648",
-  "description": "Yume: A collection of 5007 unique Sakura spirits. Featuring Ultra-Legendary sets, Mythical Seraphims, and Rare celestial traits.",
-  "image": "ipfs://bafybeie2yxf5uakmijvicjeszkbpo7vgvdofseomsfdxyjk5w2bw44vaga/1648.png",
-  "edition": 1648,
-  "date": 1777546683195,
-  "attributes": [
-    {
-      "trait_type": "Rarity Tier",
-      "value": "Legendary"
-    },
-    {
-      "trait_type": "Tier Index",
-      "value": 4
-    },
-    {
-      "trait_type": "Background",
-      "value": "Ethereal Realm"
-    },
-    {
-      "trait_type": "Back Hair",
-      "value": "Medium Pink Hair Buzz"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "None"
-    },
-    {
-      "trait_type": "Tails",
-      "value": "None"
-    },
-    {
-      "trait_type": "Base Body",
-      "value": "Porcelain"
-    },
-    {
-      "trait_type": "Body Mod",
-      "value": "None"
-    },
-    {
-      "trait_type": "Ears",
-      "value": "Ears"
-    },
-    {
-      "trait_type": "Blush",
-      "value": "Rosy Blush"
-    },
-    {
-      "trait_type": "Outfits",
-      "value": "Christmas Dress"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Green Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Subtle Smirk"
-    },
-    {
-      "trait_type": "Demonic Accessory",
-      "value": "None"
-    },
-    {
-      "trait_type": "Front Hair",
-      "value": "Medium Pink Hair Buzz"
-    },
-    {
-      "trait_type": "Head Accessory",
-      "value": "None"
-    },
-    {
-      "trait_type": "Face Feature",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mask / Halo",
-      "value": "None"
-    }
-  ]
+﻿{
+    "name":  "Yume - Frost Star #1648",
+    "description":  "Yume: A collection of 5007 unique Sakura spirits. Featuring Ultra-Legendary sets, Mythical Seraphims, and Rare celestial traits.",
+    "image":  "https://yumebetdev.github.io/yumebet-assets/images/1648.png",
+    "edition":  1648,
+    "date":  1777546683195,
+    "attributes":  [
+                       {
+                           "trait_type":  "Rarity Tier",
+                           "value":  "Legendary"
+                       },
+                       {
+                           "trait_type":  "Tier Index",
+                           "value":  4
+                       },
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Ethereal Realm"
+                       },
+                       {
+                           "trait_type":  "Back Hair",
+                           "value":  "Medium Pink Hair Buzz"
+                       },
+                       {
+                           "trait_type":  "Wings",
+                           "value":  "None"
+                       },
+                       {
+                           "trait_type":  "Tails",
+                           "value":  "None"
+                       },
+                       {
+                           "trait_type":  "Base Body",
+                           "value":  "Porcelain"
+                       },
+                       {
+                           "trait_type":  "Body Mod",
+                           "value":  "None"
+                       },
+                       {
+                           "trait_type":  "Ears",
+                           "value":  "Ears"
+                       },
+                       {
+                           "trait_type":  "Blush",
+                           "value":  "Rosy Blush"
+                       },
+                       {
+                           "trait_type":  "Outfits",
+                           "value":  "Christmas Dress"
+                       },
+                       {
+                           "trait_type":  "Eyes",
+                           "value":  "Green Eyes"
+                       },
+                       {
+                           "trait_type":  "Mouth",
+                           "value":  "Subtle Smirk"
+                       },
+                       {
+                           "trait_type":  "Demonic Accessory",
+                           "value":  "None"
+                       },
+                       {
+                           "trait_type":  "Front Hair",
+                           "value":  "Medium Pink Hair Buzz"
+                       },
+                       {
+                           "trait_type":  "Head Accessory",
+                           "value":  "None"
+                       },
+                       {
+                           "trait_type":  "Face Feature",
+                           "value":  "None"
+                       },
+                       {
+                           "trait_type":  "Mask / Halo",
+                           "value":  "None"
+                       }
+                   ]
 }
