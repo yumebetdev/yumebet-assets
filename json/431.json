@@ -1,0 +1,20 @@
+{
+  "name": "Yume Spirits #431",
+  "description": "Yume: A collection of 2222 unique Sakura spirits on the Sui blockchain. Art revealed at mainnet.",
+  "image": "https://yumebetdev.github.io/yumebet-assets/images/unrevealed.png",
+  "edition": 431,
+  "attributes": [
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Tier Index",
+      "value": 1
+    },
+    {
+      "trait_type": "Staking Weight",
+      "value": "10,000 bps (1.0x)"
+    }
+  ]
+}
